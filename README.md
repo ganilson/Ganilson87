@@ -1,4 +1,4 @@
-## Hello, I'm [Ganilson Garcia]! 👋
+## Hello, I'm [Ganilson Garcia] and this is my new Github Profile! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="300">
